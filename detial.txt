@@ -1,0 +1,11 @@
+                <div class="card">
+                    <div class="card-inner">
+                        <img class="card-image" src="IMAGE_URL" alt="ITEM_NAME">
+                        <div class="card-content">
+                            <h3 class="card-title">ITEM_NAME</h3>
+                            <p class="card-price">₹ITEM_RATE</p>
+                        </div>
+                </div>
+            </div>   
+
+            add code for new product
